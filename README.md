@@ -26,6 +26,6 @@ java -jar dist/Euchre.jar
 For playing with simulated AI (ability varies):
 
 ```
-java -cp dist/Euchre.jar Simulated.SimEuchreGUIFrame
+java -cp dist/Euchre.jar Simulate.SimEuchreGUIFrame
 ```
 
